@@ -3,8 +3,7 @@
 
 int main(){
     char mi_nombre[20];
-
-    char comando[0x100]̣;
+    char comando[0x100];
 
     system("toilet --gay -f pagga 'NOMBRE' ");
 
