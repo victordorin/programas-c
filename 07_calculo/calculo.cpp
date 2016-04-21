@@ -8,7 +8,7 @@ int main(){
 
     pf = fopen("calculo.txt","r+");
 
-    fprintf(pf,"2\n""235\n");
+    fprintf(pf,"2\n""235\n""3457\n""45673");
 
     fclose(pf);
 
