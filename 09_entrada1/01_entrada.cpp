@@ -11,6 +11,6 @@ main ()
      auxiliar = cont;
      /* escribir la linea en mayuscula+*/
      for (cont = 0; cont < auxiliar;  ++cont)
-         putchar(toupper(letras[cont]));
+         putchar(toupper \n(letras[cont]));
 return 0;
 }
